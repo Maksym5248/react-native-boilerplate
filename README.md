@@ -10,13 +10,13 @@ React Native Boilerplate is a starting point for React Native application.
 - [Flow](https://flow.org/en/docs/getting-started/) support.
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Navigation](https://reactnavigation.org/)
-- [React native screens](https://github.com/software-mansion/react-native-screens) with native stack
+- [React Native Screens](https://github.com/software-mansion/react-native-screens) with native stack
 - [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler)
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 - [Mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 - [Formik](https://formik.org/docs/overview)
 - [Jest](https://facebook.github.io/jest/)
-- [Eslint](http://eslint.org/) ([Airbnb config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
+- [Eslint](http://eslint.org/))
 
 ## Getting Started
 
